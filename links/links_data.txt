@@ -1,0 +1,3 @@
+Dados públicos do telescópio espacial Hubble
+    - https://registry.opendata.aws/hst/
+    - https://astroquery.readthedocs.io/en/latest/mast/mast.html (documentação do astroquery)
