@@ -1,3 +1,6 @@
 Dados públicos do telescópio espacial Hubble
     - https://registry.opendata.aws/hst/
     - https://astroquery.readthedocs.io/en/latest/mast/mast.html (documentação do astroquery)
+
+Radio telescópio open source 
+    - https://pictortelescope.com/observe
